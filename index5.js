@@ -39,6 +39,3 @@ function sumAtIndex(list1, list2) {
 let list4 = [1, 2, 3, 4, 5];
 let list5 = [0, 1, 2, 3, 4];
 console.log(sumAtIndex(list4, list5)); // Output: [1, 3, 5, 7, 9]
-```
-
-Du kan kopiere og lime inn denne koden i en JavaScript-fil i Visual Studio Code og kjøre den for å få de ønskede utgangene.
